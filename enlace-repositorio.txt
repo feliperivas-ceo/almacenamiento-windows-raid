@@ -1,0 +1,9 @@
+Almacenamiento en Windows - RAID
+Sistemas Operativos - Universidad Icesi
+
+Integrantes:
+- Juan Esteban Cuellar - A00402548
+- Fabio Felipe Murillo Rivas - A00401131
+
+En el siguiente repositorio se encuentra la evidencia y el informe de la práctica:
+https://github.com/feliperivas-ceo/almacenamiento-windows-raid
